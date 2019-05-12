@@ -1,0 +1,8 @@
+node
+----------
+go to Bookstore location.open command shell type node app, nodemon
+
+mongodb
+--------
+go to mongo server->3.6->bin open command prompt type mongod
+open another cmd type mongo
